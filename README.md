@@ -24,7 +24,7 @@ This is a simple card game implemented in Python. Each card in the game has thre
 
 ## Dependencies
 
-The project relies on the following dependencies:
+The project relies on the following dependency:
 
 - `tabulate`: A Python library used for generating nicely formatted tables.
 
@@ -37,4 +37,4 @@ The project relies on the following dependencies:
 5. Choose a card from the selection provided and see the result of the round.
 6. The game will continue until a player wins or you choose to exit.
 
-Enjoy playing the card game!
+Enjoy playing!
